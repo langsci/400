@@ -1,0 +1,254 @@
+head
+loan
+noun
+verb
+modal
+affix
+agent
+cleft
+tense
+topic
+vowel
+prefix
+suffix
+source
+realis
+iambic
+adverb
+clitic
+copula
+corpus
+fusion
+gender
+object
+plural
+stress
+purpose
+toponym
+elision
+animacy
+history
+numeral
+oblique
+passive
+pronoun
+subject
+valency
+locative
+iamitive
+additive
+emphatic
+avertive
+optative
+irrealis
+trochaic
+argument
+habitual
+indexing
+locative
+mirative
+modality
+negation
+question
+syllable
+telicity
+hortative
+deductive
+privative
+mass noun
+embedding
+adjective
+addressee
+addressee
+agreement
+alignment
+borrowing
+causative
+consonant
+diphthong
+haplology
+quotative
+recipient
+reflexive
+continuous
+sequential
+limitative
+imperative
+place noun
+transitive
+admonitive
+aktionsart
+classifier
+collective
+connective
+derivation
+diminutive
+endearment
+frog story
+genderlect
+imperative
+inflection
+intonation
+possession
+quantifier
+reciprocal
+word class
+word order
+prospective
+adversative
+conjunctive
+consecutive
+disjunctive
+intensifier
+prohibitive
+frustrative
+uncertainty
+prohibitive
+remote past
+active verb
+speech verb
+verbal root
+verbal stem
+applicative
+benefactive
+beneficiary
+compounding
+consultants
+dislocative
+finite verb
+noun phrase
+orthography
+preposition
+resultative
+incompletive
+nominal root
+nominal stem
+alienability
+ditransitive
+intransitive
+stative verb
+assimilation
+conomination
+coordination
+definiteness
+distributive
+middle voice
+modification
+nasalisation
+onomatopoeia
+transitivity
+discontinuous
+question word
+topic pronoun
+deranked verb
+agglutination
+anticausative
+balanced verb
+degree marker
+demonstrative
+evidentiality
+incorporation
+juxtaposition
+patient
+polysynthesis
+reduplication
+subordination
+apprehensional
+complementiser
+utterance verb
+polar question
+inalienability
+vowel sequence
+complex clause
+lexicalisation
+nominalisation
+palatalisation
+part of speech
+past reference
+person marking
+reality status
+topicalisation
+attributive use
+complement verb
+perception verb
+locative clause
+relational noun
+general oblique
+vowels in loans
+split-S marking
+thematic suffix
+content question
+negative pronoun
+instrument
+negative pronoun
+personal pronoun
+nominal irrealis
+uncertain future
+ambitransitivity
+clause combining
+deceased marking
+future reference
+left dislocation
+motion predicate
+desiderative verb
+manipulative verb
+consonant cluster
+negative particle
+nominal predicate
+possessive clause
+similative clause
+associated motion
+counterfactuality
+possessor raising
+relative relation
+rhinoglottophilia
+aspectual
+temporal
+demonstrative verb
+answer to question
+attributive clause
+existential clause
+non-possessability
+indefinite pronoun
+dependency marking
+adverbial relation
+attributive prefix
+declarative clause
+grammaticalisation
+asyndesis
+syndesis
+consonants in loans
+emphatic imperative
+complement relation
+segmental phonology
+demonstrative adverb
+intensive aktionsart
+demonstrative adverb
+secondary possession
+directive speech act
+interrogative clause
+extension applicative
+nominal demonstrative
+suppletive imperative
+quantification clause
+bridging construction
+repetitive
+regressive
+non-verbal predication
+demonstrative adjective
+imperfective
+perfective
+non-verbal motion
+serial verb
+directive speech act
+temporal overlap
+non-verbal irrealis
+grammatical nominalisation
+transcategorial morphology
+ability predicate
+benefactive clause
+genitive
+doubly irrealis
+motion-cum-purpose construction
+proper inclusion
+equative
